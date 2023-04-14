@@ -19,6 +19,6 @@
 
 ### Домашняя работа 2
 
-- [Практическая работа 04-01. *Marketing Analytics.*;](Big-Data.Pr 04-1.ipynb)
+- [Практическая работа 04-01. *Marketing Analytics.*;](Big-Data.Pr%04-1.ipynb)
   
-- [Практическая работа 04-02. *Marketing Analytics vs MySQL.*;](Big-Data.Pr 04-2.ipynb)
+- [Практическая работа 04-02. *Marketing Analytics vs MySQL.*;](Big-Data.Pr%04-2.ipynb)
