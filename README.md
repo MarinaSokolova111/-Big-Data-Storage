@@ -19,8 +19,6 @@
 
 ### Домашняя работа 2
 
-- [Практическая работа 04-01. *Marketing Analytics.*;](Big-Data.Pr%2001-2.pdf)
-  - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
+- [Практическая работа 04-01. *Marketing Analytics.*;](Big-Data.Pr 04-1.ipynb)
   
-- [Практическая работа 04-02. *Marketing Analytics vs MySQL.*;](Big-Data.Pr%2001-2.pdf)
-  - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
+- [Практическая работа 04-02. *Marketing Analytics vs MySQL.*;](Big-Data.Pr 04-2.ipynb)
