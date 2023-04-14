@@ -9,9 +9,8 @@
   - [Colab Research](https://colab.research.google.com/drive/1MIbJjGI_K29nnMXWO1ZyjC7o9zsVZ7i6)
   - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
 
-- [Практическая работа 2. *Работа в ETL-системе Talend.*;](Big-Data.Pr%2001-2.pdf)
-  - [Colab Research](https://colab.research.google.com/drive/1MIbJjGI_K29nnMXWO1ZyjC7o9zsVZ7i6)
-  - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
+- [Практическая работа 2. *Работа в ETL-системе Talend.*;](Big-Data.Pr%202.pdf)
+
 
 ### Домашняя работа 1
 
