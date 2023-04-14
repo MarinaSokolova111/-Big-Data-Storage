@@ -11,13 +11,21 @@
 
 - [Практическая работа 2. *Работа в ETL-системе Talend.*;](Big-Data.Pr%202.pdf)
 
+- [Практическая работа 3. *Архитектура хранилищ данных: традиционная и облачная.*;](Big-Data.Pr%302.pdf)
+
 
 #### Домашняя работа 1
 
-
+- [Практическая работа 01-02. *ETL Компоненты и начало работы с ETL на примере Pentaho Data Integration.*;]()
 
 #### Домашняя работа 2
 
 - [Практическая работа 04-01. *Marketing Analytics.*;](Big-Data.Pr%2004-1.ipynb)
   
 - [Практическая работа 04-02. *Marketing Analytics vs MySQL.*;](Big-Data.Pr%2004-2.ipynb)
+
+- [Практическая работа 5. *Introduction to HDFS.*;]()
+
+- [Практическая работа 6. *Introduction to YARN + Hive.*;]()
+
+- [Практическая работа 7. *Live COVID-19 tracker with Airflow.*;]()
