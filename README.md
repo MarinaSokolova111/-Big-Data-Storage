@@ -13,12 +13,14 @@
   - [Colab Research](https://colab.research.google.com/drive/1MIbJjGI_K29nnMXWO1ZyjC7o9zsVZ7i6)
   - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
 
+### Домашняя работа 1
+
+
+
 ### Домашняя работа 2
 
 - [Практическая работа 04-01. *Marketing Analytics.*;](Big-Data.Pr%2001-2.pdf)
-  - [Colab Research](https://colab.research.google.com/drive/1MIbJjGI_K29nnMXWO1ZyjC7o9zsVZ7i6)
   - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
   
 - [Практическая работа 04-02. *Marketing Analytics vs MySQL.*;](Big-Data.Pr%2001-2.pdf)
-  - [Colab Research](https://colab.research.google.com/drive/1MIbJjGI_K29nnMXWO1ZyjC7o9zsVZ7i6)
   - [DataLens](https://datalens.yandex/eo3rm8cjj7d84)
