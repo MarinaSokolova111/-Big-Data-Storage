@@ -16,7 +16,7 @@
 
 ##### `Домашняя работа 1.` [*ETL Компоненты и начало работы с ETL на примере Pentaho Data Integration*;](Big-Data.Dz%2001.pdf)
 
-##### `Домашняя работа 2.` [*Pentaho*;]()
+##### `Домашняя работа 2.` [*Pentaho*;](Big-Data.Dz%2002.pdf)
 
 - `Практическая работа 04-01.` [*Marketing Analytics*;](Big-Data.Pr%2004-1.ipynb)
   
