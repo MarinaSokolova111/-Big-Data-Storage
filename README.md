@@ -26,6 +26,6 @@
 
 - `Практическая работа 05_2.` [*Introduction to HDFS*;](Big-Data.Pr%2005_2.pdf)
 
-- `Практическая работа 6.` [*Introduction to YARN + Hive*;]()
+- `Практическая работа 6.` [*Introduction to YARN + Hive*;](Big-Data.Pr%2006.pdf)
 
 - `Практическая работа 7.` [*Live COVID-19 tracker with Airflow*;]()
